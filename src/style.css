@@ -1,0 +1,20 @@
+body {
+  background-color: #222;
+  color: #ccc;
+}
+input[type=number] {
+  background-color: #111;
+  color: #ccc;
+  width: 50px;
+  border-radius: 5px;
+  border-color: gray;
+  -moz-appearance: textfield;
+}
+#password {
+  background-color: #111;
+  color: #ccc;
+  width: 50px;
+  border-radius: 5px;
+  border-color: gray;
+  width: 1000px;
+}
